@@ -1,0 +1,64 @@
+# Compiled Binaries & Object Files (C / C++)
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.a
+*.so
+*.dylib
+*.dSYM/
+
+# Java Class Files & Archives
+*.class
+*.jar
+*.war
+*.ear
+
+# Build Artifacts & Output Directories
+bin/
+build/
+dist/
+target/
+out/
+cmake-build-*/
+
+# Temporary Files & Editor Backups
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+*.bak
+
+# IDE & Editor Configurations
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+.buildpath
+
+# Operating System Files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
