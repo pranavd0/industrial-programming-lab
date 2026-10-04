@@ -1,10 +1,10 @@
 # Learning Progress Tracker
 
-This document tracks actual program counts and completion status across each module in the **Logic Building with Industrial Project Development** curriculum.
+This document tracks actual program counts and completion status across each module in the curriculum.
 
 | Section | Status | Programs |
 |---|---|---:|
-| Logic Building | Not Started | 0 |
+| Logic Building | In Progress | 8 |
 | Arrays & Matrices | Not Started | 0 |
 | Strings | Not Started | 0 |
 | Bit Manipulation | Not Started | 0 |
@@ -20,4 +20,4 @@ This document tracks actual program counts and completion status across each mod
 | Multithreading | Not Started | 0 |
 | Object-Oriented Design | Not Started | 0 |
 | Design Patterns & LLD | Not Started | 0 |
-| **Total** | **Not Started** | **0** |
+| **Total** | **In Progress** | **8** |
