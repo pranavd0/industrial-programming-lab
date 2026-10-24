@@ -27,6 +27,7 @@ The repository covers implementations and practice across core programming and s
 - **C** (Systems programming, manual memory management, data structures)
 - **C++** (Generic programming, templates, object-oriented concepts)
 - **Java** (Core Java, Collections framework, multithreading, networking, OOP, and LLD)
+- **JavaScript** (Algorithmic problem solving, dynamic typing, and modern ES6+ structures)
 
 ---
 
@@ -53,7 +54,7 @@ The repository covers implementations and practice across core programming and s
 
 ## Repository Structure
 
-Implementations are organized into modular, concept-specific directories:
+Implementations are organized concept-first into modular, domain-specific directories. Each compartment maintains language-specific subdirectories (`c/`, `cpp/`, `java/`, `javascript/`) as implementations are added:
 
 ```text
 industrial-programming-lab/
@@ -102,6 +103,6 @@ The emphasis is on writing clean, readable implementations, understanding low-le
 ## Documentation & Progress
 
 - **[Learning Roadmap](ROADMAP.md)**: Outlines the sequential 16-phase technical curriculum.
-- **[Progress Tracker](PROGRESS.md)**: Tracks topic-by-topic completion and program count.
+- **[Progress Tracker](PROGRESS.md)**: Tracks topic-by-topic and language-wise completion counts.
 
 > *Note: The repository is continuously expanded as new concepts and implementations are completed.*
