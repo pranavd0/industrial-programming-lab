@@ -4,7 +4,7 @@ This document tracks actual program counts and completion status across each mod
 
 | Compartment | C | C++ | Java | JavaScript | Compartment Total |
 |---|---:|---:|---:|---:|---:|
-| Logic Building | 131 | 0 | 46 | 27 | 204 |
+| Logic Building | 174 | 0 | 46 | 28 | 248 |
 | Arrays and Matrices | 0 | 0 | 0 | 4 | 4 |
 | Strings | 0 | 0 | 0 | 0 | 0 |
 | Bit Manipulation | 0 | 0 | 0 | 0 | 0 |
@@ -20,17 +20,17 @@ This document tracks actual program counts and completion status across each mod
 | Multithreading | 0 | 0 | 0 | 0 | 0 |
 | Object-Oriented Design | 0 | 0 | 0 | 0 | 0 |
 | Design Patterns and LLD | 0 | 0 | 0 | 0 | 0 |
-| **Overall Total** | **131** | **0** | **46** | **31** | **208** |
+| **Overall Total** | **174** | **0** | **46** | **32** | **252** |
 
 ---
 
 ### Language Summary
 
-- **Total C Programs**: 131
+- **Total C Programs**: 174
 - **Total C++ Programs**: 0
 - **Total Java Programs**: 46
-- **Total JavaScript Programs**: 31
-- **Overall Program Grand Total**: 208
+- **Total JavaScript Programs**: 32
+- **Overall Program Grand Total**: 252
 - **Curriculum Compartments**: 16 modules
 
 ### Counting Convention
@@ -39,4 +39,4 @@ This document tracks actual program counts and completion status across each mod
 - **Multi-File Exercises**: An exercise consisting of multiple source files (e.g., header, implementation, main driver, and test harness such as `01-logic-building/c/14-modular-addition/`) is counted as **1 program / exercise**, not as separate programs.
 - **Language Implementations**: If an exercise is implemented across multiple languages, each language implementation contributes 1 to its respective language column.
 - **Excluded Items**: Non-code files (`README.md`, `PROGRESS.md`, `ROADMAP.md`, `.gitkeep`), instruction files (`GEMINI.md`, `AGENTS.md`), build artifacts, binaries, and unorganized files in `daily-inbox/` are not counted toward the curriculum total.
-- **Last Verified Audit**: 2026-10-27
+- **Last Verified Audit**: 2026-10-31
