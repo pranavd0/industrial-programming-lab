@@ -9,7 +9,7 @@ This document tracks actual program counts and completion status across each mod
 | Strings | 39 | 0 | 0 | 0 | 39 |
 | Bit Manipulation | 0 | 0 | 0 | 0 | 0 |
 | Memory Management | 0 | 0 | 0 | 0 | 0 |
-| Structures and Generic Programming | 0 | 0 | 0 | 0 | 0 |
+| Structures and Generic Programming | 1 | 24 | 0 | 0 | 25 |
 | Recursion | 0 | 0 | 0 | 0 | 0 |
 | Data Structure Implementation | 0 | 0 | 0 | 0 | 0 |
 | Searching and Sorting | 0 | 0 | 0 | 0 | 0 |
@@ -20,17 +20,17 @@ This document tracks actual program counts and completion status across each mod
 | Multithreading | 0 | 0 | 0 | 0 | 0 |
 | Object-Oriented Design | 0 | 0 | 0 | 0 | 0 |
 | Design Patterns and LLD | 0 | 0 | 0 | 0 | 0 |
-| **Overall Total** | **213** | **0** | **46** | **32** | **291** |
+| **Overall Total** | **214** | **24** | **46** | **32** | **316** |
 
 ---
 
 ### Language Summary
 
-- **Total C Programs**: 213
-- **Total C++ Programs**: 0
+- **Total C Programs**: 214
+- **Total C++ Programs**: 24
 - **Total Java Programs**: 46
 - **Total JavaScript Programs**: 32
-- **Overall Program Grand Total**: 291
+- **Overall Program Grand Total**: 316
 - **Curriculum Compartments**: 16 modules
 
 ### Counting Convention
@@ -39,4 +39,4 @@ This document tracks actual program counts and completion status across each mod
 - **Multi-File Exercises**: An exercise consisting of multiple source files (e.g., header, implementation, main driver, and test harness such as `01-logic-building/c/14-modular-addition/`) is counted as **1 program / exercise**, not as separate programs.
 - **Language Implementations**: If an exercise is implemented across multiple languages, each language implementation contributes 1 to its respective language column.
 - **Excluded Items**: Non-code files (`README.md`, `PROGRESS.md`, `ROADMAP.md`, `.gitkeep`), instruction files (`GEMINI.md`, `AGENTS.md`), build artifacts, binaries, and unorganized files in `daily-inbox/` are not counted toward the curriculum total.
-- **Last Verified Audit**: 2026-11-01
+- **Last Verified Audit**: 2026-11-02
