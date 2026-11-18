@@ -28,6 +28,7 @@ The repository covers implementations and practice across core programming and s
 - **C++** (Generic programming, templates, object-oriented concepts)
 - **Java** (Core Java, Collections framework, multithreading, networking, OOP, and LLD)
 - **JavaScript** (Algorithmic problem solving, dynamic typing, and modern ES6+ structures)
+- **Go** (Systems programming, concurrency with goroutines and channels, robust standard library, and statically typed performance)
 
 ---
 
@@ -44,6 +45,11 @@ The repository covers implementations and practice across core programming and s
 - Network programming using TCP and UDP sockets
 - Multi-threaded execution, concurrency control, and synchronization
 
+### Go Development
+- Algorithmic problem solving, slices, and map-based data structures
+- Lightweight concurrent routines using goroutines, channels, and synchronization primitives
+- Idiomatic error handling, standard library I/O, and systems utilities
+
 ### Software Design & Architecture
 - Clean separation of concerns using encapsulation, abstraction, and polymorphism
 - Composition over inheritance and decoupled component interaction
@@ -54,7 +60,7 @@ The repository covers implementations and practice across core programming and s
 
 ## Repository Structure
 
-Implementations are organized concept-first into modular, domain-specific directories. Each compartment maintains language-specific subdirectories (`c/`, `cpp/`, `java/`, `javascript/`) as implementations are added:
+Implementations are organized concept-first into modular, domain-specific directories. Each compartment maintains language-specific subdirectories (`c/`, `cpp/`, `java/`, `javascript/`, `go/`) as implementations are added:
 
 ```text
 industrial-programming-lab/
