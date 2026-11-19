@@ -1,7 +1,6 @@
 //problem : Find Sum of all even numbers in Given Range
 
-func RangeSumEven(iNo1, iNo2)
-{
+func RangeSumEven(iNo1, iNo2) {
 	//filter
 	if iNo1 > iNo2 {
 		return -1
