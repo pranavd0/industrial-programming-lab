@@ -4,9 +4,9 @@ This document tracks actual program counts and completion status across each mod
 
 | Compartment | C | C++ | Java | JavaScript | Go | Compartment Total |
 |---|---:|---:|---:|---:|---:|---:|
-| Logic Building | 189 | 2 | 46 | 35 | 14 | 286 |
+| Logic Building | 189 | 5 | 46 | 43 | 14 | 297 |
 | Arrays and Matrices | 0 | 0 | 0 | 4 | 0 | 4 |
-| Strings | 39 | 0 | 0 | 0 | 0 | 39 |
+| Strings | 39 | 3 | 0 | 1 | 0 | 43 |
 | Bit Manipulation | 12 | 0 | 0 | 0 | 0 | 12 |
 | Memory Management | 0 | 0 | 0 | 0 | 0 | 0 |
 | Structures and Generic Programming | 1 | 24 | 0 | 0 | 0 | 25 |
@@ -20,18 +20,18 @@ This document tracks actual program counts and completion status across each mod
 | Multithreading | 0 | 0 | 0 | 0 | 0 | 0 |
 | Object-Oriented Design | 0 | 0 | 0 | 0 | 0 | 0 |
 | Design Patterns and LLD | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Overall Total** | **241** | **26** | **46** | **39** | **14** | **366** |
+| **Overall Total** | **241** | **32** | **46** | **48** | **14** | **381** |
 
 ---
 
 ### Language Summary
 
 - **Total C Programs**: 241
-- **Total C++ Programs**: 26
+- **Total C++ Programs**: 32
 - **Total Java Programs**: 46
-- **Total JavaScript Programs**: 39
+- **Total JavaScript Programs**: 48
 - **Total Go Programs**: 14
-- **Overall Program Grand Total**: 366
+- **Overall Program Grand Total**: 381
 - **Curriculum Compartments**: 16 modules
 
 ### Counting Convention
@@ -40,4 +40,4 @@ This document tracks actual program counts and completion status across each mod
 - **Multi-File Exercises**: An exercise consisting of multiple source files (e.g., header, implementation, main driver, and test harness such as `01-logic-building/c/14-modular-addition/`) is counted as **1 program / exercise**, not as separate programs.
 - **Language Implementations**: If an exercise is implemented across multiple languages, each language implementation contributes 1 to its respective language column.
 - **Excluded Items**: Non-code files (`README.md`, `PROGRESS.md`, `ROADMAP.md`, `.gitkeep`), instruction files (`GEMINI.md`, `AGENTS.md`), build artifacts, binaries, and unorganized files in `daily-inbox/` are not counted toward the curriculum total.
-- **Last Verified Audit**: 2026-11-18
+- **Last Verified Audit**: 2026-11-19
